@@ -77,7 +77,8 @@ class Index extends Pages implements IPages {
 
     return $form;
   }
-
+  
+  // Setup the logic for the registration form.
   private function RegistrationForm() : Form
   {
     $form = new Form;
@@ -133,6 +134,4 @@ class Index extends Pages implements IPages {
     return $form;
   }
 }
-
-$index = new Index;
 ?>
