@@ -2,7 +2,7 @@
 PHP user-login system which is simultaneously a test for a fully PHP application.
 
 # Usage
-While this script does function as a login system, further user permissions validation would be neccessary.
+While this script does function as a login system, further user permissions validation would be neccessary. This project is only designed to demonstrate PHP knowledge. HTML/CSS/JS knowledge is not demonstrated in this project.
 
 # Description
 This project's purpose is not explicilty clear at first glance. When taking a glance at the code, you will find advanced technniques to rendering the HTML elements. This program is fully PHP, with as little HTML used as possible.
