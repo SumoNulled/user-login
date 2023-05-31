@@ -14,4 +14,9 @@ This project also serves as a test to mimic the username and temporary password 
 
 ![image](https://github.com/SumoNulled/user-login/assets/46579169/06a8dfa1-4a51-4e03-b709-de6690d17585) ![image](https://github.com/SumoNulled/user-login/assets/46579169/c5dcb17d-6118-405c-ad35-560fa96af8eb)
 
+And in the event someone has the exact same name, it appends a number to the end of the name until the username is unique (all while keeping the username <= 8 characters)
+
+![image](https://github.com/SumoNulled/user-login/assets/46579169/81e95cab-46f6-4315-a8c3-f714a634a8f0)
+
+
 
